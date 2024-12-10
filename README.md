@@ -1,4 +1,4 @@
-![css3-plain-wordmark](https://github.com/user-attachments/assets/1cb0333b-f322-4638-8dd4-ea6ebae6d99b)## Hi there 👋
+## Hi there 👋
 
 I'm Sabina, a front-end developer from Baku, Azerbaijan. I love to create beautiful and functional websites using the latest technologies. I have experience in HTML, CSS, JavaScript, and React. I’m always eager to learn more and apply them to real-world problems.
 📫: How to reach me: guney.sul@div.edu.az
